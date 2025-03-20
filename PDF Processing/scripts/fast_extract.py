@@ -1,5 +1,5 @@
 import os
-import pypdf2
+import PyPDF2
 import pdfplumber
 from pathlib import Path
 import config
@@ -11,7 +11,7 @@ def extract_text_with_pypdf2(pdf_path):
     try:
         text = ""
         with open(pdf_path, 'rb') as file:
-            reader = pypdf2.PdfReader(file)
+            reader = PyPDF2.PdfReader(file)
             for page in reader.pages:
                 page_text = page.extract_text() or ""
                 text += page_text + "\n\n"
