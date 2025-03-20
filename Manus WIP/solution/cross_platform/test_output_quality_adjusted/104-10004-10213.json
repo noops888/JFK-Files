@@ -1,0 +1,10 @@
+{
+  "filename": "104-10004-10213.pdf",
+  "extraction_results": {
+    "pymupdf": 4710583
+  },
+  "best_method": "pymupdf",
+  "extracted_chars": 4706995,
+  "is_meaningful": true,
+  "timestamp": "2025-03-20 15:06:11"
+}
