@@ -1,10 +1,9 @@
 import os
 import time
-from google import genai
-from google.genai import types
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
+import google.generativeai as genai
 
 def convert_pdf_to_text(pdf_path, retries=3, initial_delay=1):
     try:
@@ -17,50 +16,37 @@ def convert_pdf_to_text(pdf_path, retries=3, initial_delay=1):
             print(f"Skipping {filename} - already converted")
             return
         
-        # Initialize Gemini API client
-        client = genai.Client(
-            api_key=os.environ.get("GEMINI_API_KEY"),
-        )
+        # Configure Gemini API
+        genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
         
         for attempt in range(retries):
             try:
-                # Upload the PDF file
-                uploaded_file = client.files.upload(file=str(pdf_path))
+                # Get the model
+                model = genai.GenerativeModel('gemini-1.5-pro')
                 
-                # Use Gemini Flash model
-                model = "gemini-2.0-flash"
+                # Read the PDF file
+                with open(pdf_path, 'rb') as f:
+                    pdf_data = f.read()
                 
                 # Create the prompt
-                contents = [
-                    types.Content(
-                        role="user",
-                        parts=[
-                            types.Part.from_uri(
-                                file_uri=uploaded_file.uri,
-                                mime_type=uploaded_file.mime_type,
-                            ),
-                            types.Part.from_text(text="Extract all text from this PDF document. Return only the raw text without any formatting or commentary."),
-                        ],
-                    ),
-                ]
-                
-                # Configure generation parameters
-                generate_content_config = types.GenerateContentConfig(
-                    temperature=0,
-                    response_mime_type="text/plain",
+                response = model.generate_content(
+                    contents=[
+                        {
+                            "role": "user",
+                            "parts": [
+                                {"inline_data": {"mime_type": "application/pdf", "data": pdf_data}},
+                                {"text": "Extract all text from this PDF document. Return only the raw text without any formatting or commentary."}
+                            ]
+                        }
+                    ],
+                    generation_config={"temperature": 0}
                 )
                 
                 # Create output directory if it doesn't exist
                 os.makedirs(output_path.parent, exist_ok=True)
                 
-                # Process and collect the response
-                full_response = ""
-                for chunk in client.models.generate_content_stream(
-                    model=model,
-                    contents=contents,
-                    config=generate_content_config,
-                ):
-                    full_response += chunk.text
+                # Get the response text
+                full_response = response.text
                 
                 # Only write if response is not empty
                 if full_response.strip():
@@ -99,3 +85,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
