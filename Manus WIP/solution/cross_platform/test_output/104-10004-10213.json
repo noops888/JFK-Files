@@ -1,0 +1,14 @@
+{
+  "filename": "104-10004-10213.pdf",
+  "extraction_results": {
+    "pymupdf": 0,
+    "pdfminer": 0,
+    "pdfplumber": 0,
+    "poppler": 0,
+    "pikepdf": 1722,
+    "qpdf": 0
+  },
+  "best_method": "pikepdf",
+  "extracted_chars": 1722,
+  "timestamp": "2025-03-20 14:40:41"
+}
