@@ -1,10 +1,16 @@
 import os
 from pathlib import Path
-import config
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from tqdm import tqdm
+
+# Configuration
+EXTRACTED_TEXT_DIR = "extracted_text"
+DATABASE_DIR = "database"
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 100
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 def load_text_files(directory):
     """Load all text files from a directory"""
@@ -30,8 +36,8 @@ def load_text_files(directory):
 def chunk_documents(documents):
     """Split documents into chunks"""
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=config.CHUNK_SIZE,
-        chunk_overlap=config.CHUNK_OVERLAP,
+        chunk_size=CHUNK_SIZE,
+        chunk_overlap=CHUNK_OVERLAP,
         length_function=len,
         separators=["\n\n", "\n", ". ", " ", ""]
     )
@@ -50,14 +56,14 @@ def create_vector_store(chunks):
     """Create a vector store from document chunks"""
     # Initialize the embedding model
     print("Loading embedding model...")
-    embeddings = HuggingFaceEmbeddings(model_name=config.EMBEDDING_MODEL)
+    embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
     
     # Create the vector store
     print("Creating vector store...")
     vector_store = Chroma.from_documents(
         documents=chunks,
         embedding=embeddings,
-        persist_directory=config.DATABASE_DIR
+        persist_directory=DATABASE_DIR
     )
     
     # Persist the vector store
@@ -68,7 +74,7 @@ def create_vector_store(chunks):
 def main():
     # Load text files
     print("Loading text files...")
-    documents = load_text_files(config.EXTRACTED_TEXT_DIR)
+    documents = load_text_files(EXTRACTED_TEXT_DIR)
     print(f"Loaded {len(documents)} documents")
     
     # Chunk documents
@@ -79,7 +85,7 @@ def main():
     # Create vector store
     print("Creating vector store...")
     vector_store = create_vector_store(chunks)
-    print(f"Vector store created and saved to {config.DATABASE_DIR}")
+    print(f"Vector store created and saved to {DATABASE_DIR}")
 
 if __name__ == "__main__":
     main()
