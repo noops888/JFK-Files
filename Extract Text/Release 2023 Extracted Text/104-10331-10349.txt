@@ -1,0 +1,717 @@
+1000000
+104-10331-10349
+2023 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992
+JUN-26-1997 08:20
+JFK TASK FORCE
+202 324 3409
+2
+Mr. David G. Marwell
+details the facts relating to records already processed under the Freedom of Information and
+Privacy Acts (FOIPA) and the commitment of the FBI to provide the records to the public.
+FBI CORE FILES AND ASSASSINATION RELATED FILES
+Enclosure C contains the list of subjects and a summary of the files collected and
+identified in 1992 as the John F. Kennedy (JFK) Assassination Core Files and Related Files as
+prepared for Director Sessions' statement. The summary was presented to Congress as an
+explanation of the pages processed under the FOIPA and available to the public in the FBIHQ's
+FOIPA Reading Room. Research about how the universe of files known as "Core and Related,"
+were grouped and titled did not produce a precise definition. A review of tickler notes related to
+the FOIPA requests suggests that the group of files identified as "Core" was collected to respond
+to FOIPA requests received in 1976 for files on the assassination. The group of files known as
+"Related" seemed to have been established due to additional FOIPA requests and appeals for files
+associated with the assassination. The John F. Kennedy Task Force (JFKTF) could not find any
+documentation when the term of "Core and Related" was initiated.
+FBI RECORDS SYSTEM
+The FBI currently maintains seventeen record systems. The Privacy Act requires
+that every type of record system used by a govemment agency be disclosed to the public. The
+following is the list of records explained in the Federal Register (Enclosure D).
+001. The National Crime Information Center (NCIC).
+002. Central Records System (CRS).
+003. The Bureau Mailing Lists.
+004. Routine Correspondence Handled by Preprinted Form.
+005. Routine Correspondence Prepared Without File
+Yellow.
+006. Electronic Surveillance Indices (ELSUR).
+007. The FBI Automated Payroll System.
+008. The Bureau Personnel Management System (BPMS).
+009. The Fingerprint Identification Records System (FIRS).
+010. Employee Travel Vouchers and Individual Earning Records.
+011. Employee Health Records.
+012. Time Utilization Record-Keeping System (TURK).
+013. Security Access Control System (SACS).
+014. FBI Alcoholism Program.
+015. National Center for the Analysis of Violent Crime (NCAVC).
+016. FBI Counterdrug Information Indices System (CIIS).
+017. National DNA Index System (NDIS).
+2
+P.03/08
+13-00000
+JUN-26-1997 08:21
+JFK TASK FORCE
+202 324 3409 P.04/08
+Mr. David G. Marwell
+Ten of the above record systems do not concern the investigative area. The five
+record systems of an investigative nature, but not relevant to the assassination, are 001(NCIC),
+009 (FIRS), 015 (NCAVC), 016 (CIIS), and 017 (NDIS). Information from these records
+systems is retrievable through index searches of each respective system. The JFKTF did not
+search the indices of these systems, since they were not applicable at the time of the assassination
+or the related investigations. In addition, record systems 003 through 005, 007, 008, and 010
+through 014 were not relevant to the Act since they are internal FBI systems such as the payroll,
+the handling of Bureau mail, health records, and other noninvestigative administrative matters
+involving Bureau employees. The two systems of records relevant to the Act and searched by the
+FBI were 002 Central Records' System (CRS) and 006 Electronic Surveillance Indices (ELSUR).
+The following information will explain the FBI's system of recording, filing, and
+retrieving documents at the FBI. The FBI's primary records repository is its CRS, which was
+automated beginning in 1978. The old manual card index of the CRS was maintained, since the
+automation did not encompass all of the old records. The FBI maintains the CRS for its
+investigative, personnel, applicant, administrative, and general files. Although the FBI has other
+record systems as explained above, the CRS is the primary and most important system for
+retrieving assassination related records. It consists of a numerical sequence index of subject
+matter files and an alphabetical index to these files called the general index.
+The FBI's filing system follows a numbering method used to show (1) the
+classification or type of investigative violation or administrative area involved, (2) the individual
+case file within the category, and (3) the serialization of individual documents commonly called,
+pieces of mail, in the file. Once a violation defines the classification, then the case portion of the
+file number is assigned by subject. For instance, the number 91-200-20 on a piece of mail says it
+is the 20th piece of mail in the 200th case file assigned to the bank robbery 91 classification.
+This example would not be correct for the newest segment of files in the automated indices, the
+Universal Case File (UCF) which was established in November 1991. However, the FBI's JFK
+collection of files and docuraents known at this point do not fall within the UCF system.
+Each classification maintains a zero (0) and a double zero (00) file. The 0 and 00
+files are "general files" and precede the first case file in each classification. The O file is used for
+complaints and miscellaneous nonspecific data relating to the classification that does not warrant
+establishing a separate case file. The 00 file is used for collecting, in one place, policies and
+procedures that refer to the particular classification or violation category. The FBI files each
+document conceming policy and procedure serially in the 00 file of the appropriate classification.
+Therefore, every time a change in policy, procedure, instruction, or guideline occurs; it is
+documented in this category, with the information being placed in the 00 file.
+The FBI's indexing of the CRS general indices falls into two separate categories,
+"Main" and "Cross" references. A Main index reference carries the name of an individual,
+organization, activity, or the like which is the primary subject of the file maintained in the
+3
+13-00000
+JUN-26-1997 08:21
+JFK TASK FORCE
+202 324 3409
+۲.05/08
+D
+Mr. David G. Marwell
+system. All the documents created for a subject involving a particular violation will be filed in
+that particular subject's main file. A Cross index reference contains only a mention or reference
+to a particular individual, organization, activity, or the like found in the body of a document in a
+file on another main subject. The case agent or records specialist indexes the cross reference, so
+the information can be found later when it may be significant.
+The FBI also maintains the ELSUR Index that contains the names of persons
+whose voices have been monitored through an FBI microphone installation or a telephone
+surveillance. This index consists of three categories of information: Principals (Targets) of an
+electronic surveillance; Proprietary Interests; and Overhears. The FBI initiated the ELSUR index
+at the recommendation of the Department of Justice. The index covers the electronic surveillance
+sought by or conducted by the FBI since January 1, 1960. This index was automated in October
+1991. Unlike the CRS, the FBI automated the entire indices, so only one search is necessary.
+For the FBI to ensure that all the documents mandated by the Act were found, the
+JFKTF requested those specifically trained in the record systems to conduct searches of both the
+automated and manual CRS indices and the automated ELSUR index. The search included all
+the core and related subjects as defined in Enclosure C. The searches were conducted at FBIHQ
+and in the Field and Legat Offices. The FBI record specialists assigned to this task employed the
+normal procedures for searching all the relevant indices to respond to the Act. Their appropriate
+supervisors approved the work.
+The House Select Committee on Assassination (HSCA) was a Congressional
+Committee established to review possible theories of the assassinations concerning President
+John F. Kennedy and the Reverend Martin Luther King. The JFKTF identified the universe of
+files known as the "HSCA Files" by reviewing the HSCA request letters, the FBI response letters,
+administrative folders and copies of the files shown to the HSCA staff. The copies of the HSCA
+files and folders were segregated at the end of the Committee's investigation due to an agreement
+with the Committee. The JFKTF identified the HSCA Field Office ELSUR documents
+concerning the requested subjects by using the same records previously mentioned.
+Concerning the Board's requests involving "JUNE MAIL," "Do Not File"
+memoranda, "informant files," "personnel files" and "COINTELPRO activities," the information
+in those categories, if maintained as records, are indexed and filed in the CRS. Therefore, the
+universe of assassination records searched for and collected would include any documents with
+the above notations. At FBIHQ, sensitive records requiring restricted access are maintained in
+the Special File Room (SFR) which is a repository for sensitive records. In the Field Offices the
+sensitive documents are also maintained in special areas, such as the SAC's Safe. All
+assassination related records that the FBI maintains in the secure areas are also retrievable
+through the systems searched. The FBI used these systems to search all areas for indexed and
+retrievable records.
+4
+13-00000
+JUN-26-1997 08:22
+JFK TASK FORCE
+202 324 3409 P.06/08
+Mr. David G. Marwell
+FBI RECORDS STORAGE FACILITIES
+For storage of records outside FBI space, the FBI Headquarters uses two off-site
+facilities. One location is Pickett Street in Alexandria, Virginia. This facility contains most of
+the FBI's closed files that were previously housed at FBIHQ at 10th and Pennsylvania Avenue,
+Washington, D.C. The other off-site facility is in Boyers, Pennsylvania. This location houses
+FBI Legat information. The Legat information at Boyers, is also on "Microfilm" at FBIHQ. The
+only additional records maintained at the Boyer's location consist of National Lawyers Guild files
+that are "Court Sealed" records. The Boyers, Pennsylvania records' storage area is rented by the
+FBI from the National Underground Storage Company.
+In addition, the field offices have three official off cite storage facilities. These
+facilities are located at Butte, Montana; Pocatello, Idaho; and San Juan, Puerto Rico. All three
+locations have archival disposition offices to decide the handling of closed files, but all decisions
+are forwarded to FBIHQ's archival office for final approval. All FBI Field Offices and FBI
+Legats send information requiring "record-keeping" to FBIHQ.
+FBI RELEASES TO
+NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)
+Enclosure E depicts all releases made to NARA from the first release on
+December 13, 1993, to the 16th release on December 20, 1996. A special note is made that the
+total number of pages since 1992 has expanded from 236,000 pages to more than 666,000 pages
+made available to the public. This includes the re-processing of all core and related files
+according to the Act. The FBI has developed a plan with the Board's staff to streamline this
+process. The change will cause an initial delay for the next release, but eventually the releases
+will occur more often and with fewer postponements.
+FBI RESPONSES TO SPECIFIC REQUESTS
+Throughout the process of responding to the Board's specific numbered requests
+the JFKTF staff is in frequent contact with employees of the Board. The Board has also
+requested information from our records concerning other areas that may have some relation to the
+assassination. The memoranda from the Board to the FBI indicate that the FBI has addressed
+both written and oral requests from the Board. Where there are no specific written responses
+from the FBI to the Board, the FBI either handled these responses orally with members of the
+staff or is in the process of responding. The JFKTF prepared an inventory of the requests and
+status of responses and shared this information with the Board. However, the responses to the
+numbered letter requests will be documented later.
+1
+5
+13-00000
+SECRET
+From the Desk of Michele I. Platte
+filo
+(complete)
+NOTE FOR:
+FROM:
+DATE:
+SUBJECT:
+Eileen M. Wukitch @ DO
+Lee E. Carle-Y @ DO
+Michele 1. Platte
+12/10/96 11:42:33
+Trace Request: Mikhail Ivanovich Samarin
+CL BY: 2151521
+CL REASON: 1.5(a)
+DECL ON: X1
+DRV FROM: HUM 1-82
+The Directorate of Operations surfaced no additional information to that already known to the FBI.
+Mikhail Ivanovich Samarin died (approximately) 06 June 1966.
+Any questions concerning this request please call me on 43840. Thanks, Michele.
+CC:
+Andrew J. Trusko @ DO
+Per phone all to FBI (DB) Ν. Ο βλεCTION,
+11 Dec 96
+to Release
+0
+SECRET
+13-00000
+CONFIDENTIAL
+NOTE FOR:
+FROM:
+DATE:
+SUBJECT:
+Andrew J. Trusko @ DO
+Fredrick C. Wickham
+12/03/96 17:29:27
+name trace
+CL BY: 524343
+CL REASON: 1.5(c)
+DECL ON: X1
+DRV FROM: COV 1-82
+I need a trace for the JFK folks of Mikhail Ivanovich Samarin. He was a Soviet defector borm in
+Moscow Jan 21, 1908 and defected in 1948. Worked at Army Language Facility until 1951? The
+request came from the FBI and they want to know if he is alive and if we care if his name is
+released. I don't know what more we know about him if anything to answer the question. He did
+become ill in 1951 and was put inot a sanitarium so I doubt he is alive but? If you find anything
+pertinent you can send it to Eileen Wukitch and Lee Carle if I'm not here tomorrow. Thanks.
+CC:
+Kenneth R. Johnson @ DO, Eileen M. Wukitch @ DO, Lee E. Carle-Y @ DO
+CONFIDENTIAL
+13-00000
+T
+4
+☆
+☆☆☆
+☆☆☆☆
+RAL
+& WORRAL OF INT
+Page 1 of 2 pages
+Office of the Legal Attache
+American Embassy
+Bern, Switzerland
+Fax No. 41/31/357-73-68
+(International)
+031/357-73-68 (Domestic)
+Telephone Number:
+031/357-73-40
+To:
+FAX NUMBER:
+ATTN:
+FBIHQ
+001-202-324-22-99
+SC John Hartingh
+1
+FROM:
+ORIGINATOR:
+SUBJECT:
+JFK Assassination Review Board
+LEGAL ATTACHE, BERN
+Regina Superneau
+OUR REF:
+Date:
+20 September 1995
+COMMENTS/MESSAGE: Here is a copy given to me by Polt of the
+statement of the DOS's position which was presented to Swiss
+yesterday.
+Let me know if you have any thoughts on this.
+CIA HAS NO OBJECTION ΤΟ
+DECLASSIFICATION AND/OR
+RELEASE OF CIA INFORMATION
+IN THIS DOCUMENT
+:
+13-00000
+ASSASSINATION RECORDS
+CONGRESS CREATED THE ASSASSINATION RECORDS REVIEW BOARD
+AND THE PRESIDENT APPOINTED ITS MEMBERS IN RESPONSE TO
+WIDESPREAD PUBLIC INTEREST IN THE FACTS SURROUNDING THE
+KENNEDY ASSASSINATION
+--
+THE PRESIDENT JOHN F. KENNEDY ASSASSINATION ACT OF 1992
+MANDATES THAT ALL GOVERNMENT RECORDS RELATED TO THE
+ASSASSINATION, ΤΟ THE GREATEST EXTENT POSSIBLE, SHOULD BE
+MADE AVAILABLE TO THE AMERICAN PUBLIC.
+WE SUPPORT THE BOARD AND ARE GIVING IT OUR FULL
+COOPERATION IN ITS EFFORTS TO CARRY OUT ITS MANDATE.
+--
+IN THIS SPIRIT, WE ASK YOUR COOPERATION IN MAKING ALL
+RELEVANT DOCUMENTARY MATERIAL AVAILABLE TO THE PUBLIC.
+-- FROM THE U.S. PERSPECTIVE, WE SEE NO REASON FOR THE
+CONTINUED CLASSIFICATION OF THE MATERIAL THE BOARD HAS
+REQUESTED.
+i
+13-00000
+FBIMTG#1.TXT
+CIA SPECIAL COLLECTIONS
+RELEASE IN FULL
+2000
+Notes from meeting with FBI
+Assassination Review Board staffer for FBI Phil Goldrick
+Grant's Secure Fax:
+202-324-3326
+:
+Grant wants copy of released 1967 IG Report for his reviwers
+Names of FBI contact reviewers: Carl Valentine
+Mike McCaffrey
+Bob Lill (?)
+Dick Busching
+Re issue with Board over protection of sources/informates:
+"Protection forever"/not sure how board with respond
+Re privacy:
+als
+hose
+JFK
+!
+Board is supportive of protecting privacy of individu
+not directly involved in assassination story (especially t
+whose roles were incidential or circumstantial)
+Re data base issues: Does not currently have capability to search
+database will have once new hard drive installed;
+Does not see an FOIA problem; reminded me that they are no
+t
+keeping their collection
+Page 1
+everything to NARA
+13-00000
+ICY FOR BAKKE, & Gary
+JOHN P. HAS ORIGINAL
+FBI INFORMANT/CONFIDENTIALITY POSTPONEMENTS
+INTRODUCTION
+This document will address the postponement practices
+of the FBI relating to informants and others with whom the FBI
+has a confidential relationship (informant/confidentiality
+postponements) in documents being transferred to the National
+Archives and Records Administration (NARA) under the "President
+John F. Kennedy Assassination Records Collection Act of 1992"
+(the Act). To provide a basis for the formulation of these
+practices, their description will be preceded by a discussion of
+the classes of persons protected by an understanding of
+confidentiality, as well as the development, operation,
+protection, and investigative significance of such persons.
+Other determinations underlying these practices will also be
+addressed. The information contained in this document is based
+not only on the experience of the FBI and law enforcement and
+intelligence communities in general, but on the personal.
+investigative experiences of some of the contributors to it.
+CLASSES OF CONFIDENTIAL RELATIONSHIPS
+The FBI maintains a confidential relationship with
+several types of persons. They include:
+1. Criminal Informants who provide information
+regarding criminal activity, including organized crime, white
+collar crime, violent crime, drug trafficking, and, today,
+domestic terrorism. All such individuals are now assigned
+identifying symbol numbers (to be described hereafter) to protect
+their identities in documents containing information they have
+provided. However, before and at the time of the Assassination,
+and for some years thereafter, the names of the persons under
+development as informants (Potential Criminal Informants or PCIS)
+were reflected in documents until their reliability could be
+established and they were converted to Criminal Informant (CI)
+status. Upon conversion to CI status the informant was assigned
+an identifying symbol number for protection.
+There are a number of subgroups within the criminal
+informant program. While some CIs are considered general
+criminal informants, others are categorized according to the
+specialized area in which they provide information. These would
+include, for example, Organized Crime (OC) informants, who
+provide information primarily regarding subjects involved in
+organized crime activity, and Top Echelon informants (TE), who
+provide information regarding the highest levels of organized
+crime.
+From the time a person comes under development as an
+informant (in previous years as a PCI), he or she is made the
+subject of an individual file. This file contains information
+CIA SPECIAL COLLECHOND
+RELEASE IN FULL
+13-00000
+provided by the person, as well as administrative and background
+data regarding the source.
+2. National Security Informants who today provide
+foreign counterintelligence and international terrorism
+information, and, in years past, also included those informants
+who provided information regarding domestic security/terrorism.
+Such informants are now referred to as assets, but at the time of
+the Assassination and for some years thereafter were labelled
+Security Informants (SIS). Like criminal informants, assets are
+provided identifying symbol numbers for protection, as were SIS.
+before them. Persons under development as SIs were considered
+Potential Security Informants (PSIS) and, as with PCIs, their
+true identities were reflected in documents until they were
+converted to symbol-number status.
+The FBI operates various types of National Security
+assets. They include:
+Double Agents. A double agent is one who receives
+assignments from, cooperates with, and/or performs tasks for a
+foreign intelligence service on a clandestine basis but who, in
+actuality, operates in this capacity under the control of the
+U.S. Government.
+Defector Sources. A defector source is an individual
+who possesses intelligence information of value and has either
+openly or without announcement left the employment of his or her
+country and is furnishing information to the U.S. Government.
+Recruitments in Place (RIP). A RIP is an_individual--
+from a foreign country who covertly provides information of
+intelligence value to the U.S. Government while outwardly
+maintaining allegiance to his or her own government.
+While under development as PSIS, SIS (like PCIs) were
+made the subject of individual files which contain information
+provided as well as administrative data and background
+information. Today, an individual becomes the subject of a file
+at the outset of his or her development as an asset.
+3. It should be noted that in recent years the FBI has
+designated Cooperating Witnesses (CWs) as constituting another
+class of source. A CW is defined as an individual whose
+relationship with the Government is concealed until testimony is
+required at trial and who, on a continuing basis and under the
+direction of an Agent, contributes substantial operational
+assistance to the resolution and/or direction of a case through
+active participation in the investigation. CWs are unlike
+informants, who gather intelligence and will not testify.
+Although CWs are aware from the outset that it is likely that
+they may be required to publicly admit their cooperation with law
+2
+13-00000
+enforcement, the FBI has taken the position that, in the absence
+of public testimony, the relationship with a CW is similar to the
+relationship with any other source. That is to say, if for any
+reason the CW is never publicly exposed in trial, the
+relationship remains confidential. In addition, the
+intelligence, as opposed to operational assistance, furnished by
+a CW also is protected, along with the confidential relationship
+as it relates to such information.
+4. Sources given expressed promises of confidentiality
+in connection with the information they provided in the course of
+criminal, counterintelligence, and background investigations.
+Oftentimes, when associates or neighbors, as well as persons in
+businesses, public utilities, government agencies, and elsewhere
+are contacted in the course of an investigation, they agree to
+provide information only if they are assured that their
+identities will be protected under a promise of confidentiality.
+Where such a promise is given, documents containing such
+information will contain the name of the person providing the
+information as well as language specifically setting forth the
+fact that confidentiality was requested. No file is opened on
+such persons and no symbol numbers are assigned to protect their
+identities. Furthermore, unlike informants, little background
+information other than an address or perhaps the name of an
+employer is set forth for these sources in FBI files.
+5. Persons providing information requiring that
+confidentiality be afforded its source. In certain instances in
+the past (to include the time of the Assassination), the FBI
+received information from persons in financial institutions,
+public utilities, and other similar entities that would not have
+been publicly available. In fact, today, a subpoena would be
+required to obtain bank records, telephone toll records, and
+other like materials provided by such persons. These persons
+generally provided such information on a regular basis.
+Regardless of the frequency with which they provided information,
+they would have done so only with the understanding that they
+were doing so on a confidential basis, even where that
+understanding is not specifically articulated in FBI documents.
+Additionally, much of the information necessary for the FBI to
+successfully carry out its investigative function comes from
+private citizens that are either approached by the FBI for
+questioning or who voluntarily come forward. Before the passage
+of provisions of the Freedom of Information/Privacy Act in the
+mid-1970s allowing access to FBI investigative files, it can be
+stated with virtual certainty that no person providing such
+information would have anticipated his or her cooperation ever
+being made public. In fact, prior to the passage of the Privacy
+Act of 1974, all FBI investigative information, including that
+obtained from informants and sources, was confidential by
+Department of Justice Order. After passage of the Privacy Act,
+an expressed grant of confidentiality was required in order to
+3
+13-00000
+to balance the risk of harm to the person or to the informant
+program in these judgement calls. (see Tab 6)
+5. The most difficult category of sources to deal with
+is that of persons providing information to the FBI without a
+specific request for confidentiality. In the attempt to release
+as much material as possible, the identities of most of these
+sources were released, but, once again, the FBI has attempted to
+balance the need to maximize released information with the
+potential harm to the individual source. (see Tab 7)
+6. The "Mosaic Theory" is of particular importance with
+regard to the transfer of FBI files to NARA under the terms of
+the Act. The FBI has maximized the release of information
+maintained in the Assassination files in order to comply with
+both the letter and the spirit of the Act, and this has resulted
+in an unprecedented amount of informant information being made
+available to the public. However, the FBI has postponed
+informant symbol numbers wherever that informant is providing
+positive information, under the terms of the Act which allow for
+the postponement of the identity of informants. The release of
+these symbol numbers, in combination with the information already
+released, could very well lead to the identification of a number
+of FBI informants.
+The FBI is currently reviewing for transfer the
+material which was provided to the HSCA in 1978. With respect to
+the HSCA files, the Task Force has been more protective of all
+types of sources, but particularly organized crime and national
+security informants, due to the real danger of retaliation
+against them, even after these many years. The informants and
+other sources utilized in these investigations were specifically
+targeted against subjects of investigative interest, and it is
+not readily apparent how they might figure in a conspiracy to
+assassinate JFK. Anticipating the opportunity to discuss these
+concerns with the ARRB, the balancing test for the HSCA files, at
+the present, has been necessarily weighted in favor of
+postponement of any information which might tend to identify a
+source. Of course, if any information is located in these files
+which bears, even indirectly, on the assassination, that
+information will be considered under the most liberal light
+possible.
+BASIS FOR INFORMANT/CONFIDENTIALITY POSTPONEMENT PRACTICES
+Again, the FBI has attempted to postpone the release of
+information only where there are compelling reasons to do so.
+There are no more compelling reasons for postponement than those
+underlying the protection being given informants and others with
+whom the FBI has confidential relationships. The rationale for
+postponement in this area is clear from the discussion of
+10
+13-00000
+informants, assets, and other confidential sources set forth
+above.
+The privilege available to the government to withhold
+the identity of persons who furnish information to officers
+charged with law enforcement is well established in the law. The
+rationale for the informant privilege has been explained as
+follows:
+1
+[I]t has been the experience of law enforcement
+officers that the prospective informer will usually
+condition his cooperation on an assurance of anonymity,
+fearing that if disclosure is made, physical harm or
+other undesirable consequences may be visited upon him
+or his family. By withholding the identity of the
+informer, the government profits in that the continued
+value of informants placed in strategic positions is
+protected, and other persons are encouraged to
+participate in the administration of justice.
+i.
+United States v. Tucker, 380 F.2d 206, 213 (2d Cir. 1967); accord
+In re United States, 565 F.2d 19 (2d Cir. 1977), cert. denied sub
+nom, Bell v. Socialist Workers Party, 436 U.S. 962 (1978)
+To reduce the length of the body of this document,
+further discussion of the privilege is not set forth here but is
+contained in the appendices. (see Tab 8)
+The FBI and the Department of Justice have gone to
+great lengths in the past to protect the identity of informants.
+Prosecutions have been dropped rather than divulge an informant
+identity, a former Attorney General (Griffin Bell) risked being
+held in contempt of court rather than identify informants in a
+civil suit, and the FBI has often had to weather the
+protestations of other agencies which were given information
+derived from sources but which, despite their considerable
+insistence, were not informed of the identity of these sources.
+The FBI believes that its informant/confidentiality
+practices are consistent with the postponement provisions of the
+Act. The practice is clearly consistent with the language of
+Section 6 (subsection 4) of the Act that permits the postponement
+of relationships currently requiring protection when public
+disclosure would be so harmful that it outweighs the public
+interest. That is because unless a confidential relationship has
+already been disclosed, and regardless of whether the source is
+active or even still living, the relationship must remain
+confidential for the protection of the source and/or his or her
+family, as well as to sustain the viability of the FBI's source
+development efforts.
+Again considering the balancing test under which an
+agency must show that the need to protect certain information
+11
+13-00000
+Through postponement outweighs the public interest in the
+information proposed for postponement, the FBI believes there can
+be little or no historical interest in the identity of someone
+who did not provide positive information, a situation that occurs
+frequently in the "core" files. At the same time, the damage to
+individuals and the FBI's source development efforts resulting
+from disclosure would be great.
+Where there is positive information attributed to a
+source whose identity is being postponed, the result of applying
+the balancing test is virtually the same as that where the
+contact was negative. The information provided by the source,
+which is being disclosed, is of significantly greater public
+interest than the source's identity, which is being postponed.
+Disclosure of the source's identity accomplishes little in terms
+of satisfying the public interest when compared, again to the
+potential harm to the source and/or his or her family, as well as
+the FBI's source development capabilities. In' a number of
+instances, the source of positive information is referred to not
+by name, but by symbol number. There would appear to be little
+if any public interest in such an identifier except, perhaps, on
+the part of persons attempting to apply the Mosaic approach
+simply to determine the identities of informants or assets.
+While the FBI does not directly rely on those grounds
+for postponement centered on the unwarranted invasion of personal
+privacy in regard to informant/confidentiality postponements,
+such privacy concerns are also a part of the FBI's rationale for
+its informant/confidentiality practices. Exposing a source
+and/or his or her family to any of the various forms of
+retaliation that might result from a disclosure of the source's
+identity would constitute, at the very least, an unwarranted
+invasion of personal privacy.
+CONCLUSION
+Criminal informants and National Security informants
+(assets) are, respectively, absolutely indispensable resources in
+the effort to maintain public safety and to protect the national
+security. It would not be possible to have effective law
+enforcement without informants, as well as ordinary citizens, who
+are willing to provide information on a confidential basis, nor
+would it be possible to maintain the security of this nation
+without the cooperation of assets and other sources. In turn,
+without the ability to honor the obligation to maintain the
+confidentiality that is central to the relationship that must
+exist with informants, assets, and other sources, there would be
+a chilling effect that could irreparably debilitate efforts to
+obtain the critical assistance needed from such persons if law
+enforcement and national security missions are to be effectively
+carried out. Furthermore, the obligation to protect the
+12
+}
+13-00000
+confidential relationship with informants and other sources is
+one that must attach in perpetuity, not just because of the need
+to protect the source and the source's family as promised, but so
+that those that might serve as sources in the future are not
+deterred from doing so because of a justifiable fear of
+disclosure and the ensuing risk of harm to themselves and their
+families.
+Again, in its effort to maximize disclosure under the
+Act, the FBI carefully examined every situation in which it
+contemplated postponement of information and, more especially,
+any type of information (e.g. the identities of or information
+tending to identify informants or other confidential sources)
+that appears widely throughout the JFK documents. In doing so,
+the FBI made the inescapable determination that it must
+absolutely protect the identities of informants and others with
+whom a confidential relationship exists. The FBI believes that
+doing so is consistent with the postponement provisions of the
+Act.
+13
+13-00000
+U.S. Department of Justice
+Federal Bureau of Investigation
+Washington, D. C. 20535
+May 14, 1993
+HISTORICAL REVIEW GROUP
+CENTER FOR THE STUDY OF INTELLIGENCE
+CENTRAL INTELLIGENCE AGENCY
+336 AMES BUILDING
+WASHINGTON, D. C. 20505
+ATTENTION: J. BARRY HARRELSON
+DEAR BARRY:
+i
+ATTACHED ARE SEPARATE INVENTORY SHEETS REFLECTING
+INCOMING AND OUTGOING CIA DOCUMENTS FOR EACH FILE THAT HAVE BEEN
+INVENTORIED INTO OUR COMPUTER.
+IF YOU NEED VERIFICATION OF ANY OF THE ENTRIES, LET ME
+KNOW.
+ENCLOSURES
+THANKS,
+July
+JUDY BOWEN
+JFK TASK FORCE
+CIA HAS NO OBJECTION TO
+DECLASSIFICATION AND/OR
+RELEASE OF CIA INFORMATION
+IN THIS DOCUMENT
+13-00000
+CIA SPECIAL COLLECTIONS
+RELEASE IN FULL
+2000>
+any ey
+5 May 1994
+MEMORANDUM FOR:
+Mrs. Margaret Cook
+Team, Captain
+Document Classification Unit
+FOIA/Privacy Act Section
+Federal Bureau of Investigation
+FROM:
+SUBJECT:
+Mr. Barry Harrelson
+Project Leader
+Historical Review Group
+History Staff
+Central Intelligence Agency
+Use of CIA Desigantor
+"CLIP"
+i
+1. This is in response to your request for written
+guidance concerning the proper classificaton of the Agency's
+designator "Clip."
+-
+2. We have reviewed this question with the the head of
+the Directorate of Operations team working with this office
+on the JFK collection. The advice provided is that the
+"Clip" may be treated as unclassified in all instances.
+3. If you have any further questions in this regard,
+please call me.
+Barry Harrelson
+13-00000
+SECRET
+25 June 1993
+JFK Assassination File Review
+SUBJECT:
+Review of FBI Materials
+1.
+Crypts to be coordinated with FBI:
+FEDORA
+SHAMROCK
+VIADUCT
+If during DO review or redaction review you find these....
+crypts unredacted make a copy for Barry to coordinate with
+the FBI.
+i
+2. Some numbers in the FBI 100 series (100-#####) are
+classified. If a FBI 100 number is referenced on a CIA
+document it must be coordinated with the FBI. 'If there is
+only the number (no substantive information
