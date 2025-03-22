@@ -43,17 +43,18 @@ def create_qa_chain(vector_store, model_type="claude"):
         llm = ChatAnthropic(
             model="claude-3-opus-20240229",
             anthropic_api_key=ANTHROPIC_API_KEY,
-            temperature=0.3,  # Lower temperature for more consistent answers
-            max_tokens=4000  # Increased for longer responses
+            temperature=0.1,  # Lower temperature for more focused answers
+            max_tokens=2000  # Reduced for cost efficiency
         )
     elif model_type == "gemini":
         if not GOOGLE_API_KEY:
             raise ValueError("GOOGLE_API_KEY environment variable not set")
         llm = ChatGoogleGenerativeAI(
-            model="gemini-pro",
+            model="gemini-1.5-pro",  # Updated model name
             google_api_key=GOOGLE_API_KEY,
-            temperature=0.3,  # Lower temperature for more consistent answers
-            max_output_tokens=4000  # Increased for longer responses
+            temperature=0.1,  # Lower temperature for more focused answers
+            max_output_tokens=2000,  # Reduced for cost efficiency
+            convert_system_message_to_human=True  # Required for Gemini
         )
     else:
         raise ValueError(f"Unsupported model type: {model_type}")
@@ -70,6 +71,7 @@ def create_qa_chain(vector_store, model_type="claude"):
     5. If the context is incomplete or unclear, acknowledge this in your answer
     6. When possible, provide specific details, dates, and names from the context
     7. If there are multiple relevant pieces of information, combine them into a comprehensive answer
+    8. Focus on the most relevant and specific information from the context
 
     Context:
     {context}
@@ -88,11 +90,9 @@ def create_qa_chain(vector_store, model_type="claude"):
         llm=llm,
         chain_type="stuff",
         retriever=vector_store.as_retriever(
-            search_type="similarity_score_threshold",  # Use threshold-based search
+            search_type="similarity",
             search_kwargs={
-                "k": 20,  # Increased number of documents
-                "score_threshold": 0.3,  # Lowered threshold to get more context
-                "fetch_k": 50  # Increased number of candidates to consider
+                "k": 5  # Reduced number of documents for cost efficiency
             }
         ),
         chain_type_kwargs=chain_type_kwargs,
@@ -123,11 +123,12 @@ def main():
             print("\nSearching for answer...")
             try:
                 # First, let's see what documents are being retrieved
-                docs = vector_store.similarity_search_with_score(query, k=20)
+                docs = vector_store.similarity_search_with_score(query, k=5)
                 print(f"\nFound {len(docs)} relevant documents")
-                print("Top document scores:")
-                for doc, score in docs[:5]:  # Show top 5 documents
-                    print(f"- {doc.metadata['source']} (score: {score:.3f})")
+                print("\nTop document previews:")
+                for doc, score in docs:
+                    print(f"\nSource: {doc.metadata['source']} (score: {score:.3f})")
+                    print("Preview:", doc.page_content[:200] + "...")
                 
                 # Use invoke instead of __call__
                 result = qa_chain.invoke({"query": query})
