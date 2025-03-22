@@ -1,0 +1,12 @@
+pydantic==2.5.3
+numpy==1.24.3
+torch==2.1.2
+transformers==4.36.2
+langchain-core==0.1.33
+langchain-community==0.0.29
+langchain==0.1.11
+sentence-transformers==2.5.1
+chromadb==0.4.22
+langchain-anthropic==0.1.4
+google-generativeai==0.4.1
+langchain-google-genai==0.0.11 
